@@ -37,7 +37,7 @@ usuario={
     'info':{
         'nombre':'Tomas',
         'apellido': 'Gomez Wagner',
-        'email':'twagner@cecaitra.org.ar'
+        'email':'twagner@mail.org.ar'
     },
     'rol':{
         'type':'sector_admin',
